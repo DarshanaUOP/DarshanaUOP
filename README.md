@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![HitCount](http://hits.dwyl.com/DarshanaUOP/DarshanaUOP.svg)](http://hits.dwyl.com/DarshanaUOP/DarshanaUOP)
+
+
+[![DarshanaUOP's github stats](https://github-readme-stats.vercel.app/api?username=DarshanaUOP)](https://github.com/anuraghazra/github-readme-stats)
