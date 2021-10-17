@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 ![DarshanaUOP's github stats](https://github-readme-stats.vercel.app/api?username=DarshanaUOP&show_icons=true)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanaUOP&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dnSZeMZ3Z5s/0.jpg)](https://www.youtube.com/watch?v=dnSZeMZ3Z5s)
