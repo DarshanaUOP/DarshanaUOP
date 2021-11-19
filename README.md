@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ![DarshanaUOP's github stats](https://github-readme-stats.vercel.app/api?username=DarshanaUOP&show_icons=true)
 
 
-This is the demonstration video of the website I have developed.
+* This is the demonstration video of the website I have developed.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dnSZeMZ3Z5s/0.jpg)](https://www.youtube.com/watch?v=dnSZeMZ3Z5s)
