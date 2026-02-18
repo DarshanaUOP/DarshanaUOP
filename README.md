@@ -1,4 +1,4 @@
-### Hi there 👋 I am Darshana Ariyarathna
+### Hi there 👋 I am Darshana Ariyarathna [![HitCount](http://hits.dwyl.com/DarshanaUOP/DarshanaUOP.svg)](http://hits.dwyl.com/DarshanaUOP/DarshanaUOP)
 
 <!--
 **DarshanaUOP/DarshanaUOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![HitCount](http://hits.dwyl.com/DarshanaUOP/DarshanaUOP.svg)](http://hits.dwyl.com/DarshanaUOP/DarshanaUOP)
-
-
-![DarshanaUOP's github stats](https://github-readme-stats.vercel.app/api?username=DarshanaUOP&show_icons=true)
 
 <!-- 
 * This is the demonstration video of the website I have developed.
